@@ -1,0 +1,26 @@
+﻿生成启动时间为 2015/7/11 10:47:34。
+     1>项目“D:\C练习\hello_HW\hello_HW\hello_HW.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\hello_HW.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\hello_HW.exe.embed.manifest.res" Debug\hello_HW_manifest.rc 
+       Link:
+         D:\VS2010旗舰版\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C练习\hello_HW\Debug\hello_HW.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\hello_HW.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\C练习\hello_HW\Debug\hello_HW.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C练习\hello_HW\Debug\hello_HW.lib" /MACHINE:X86 Debug\hello_HW.exe.embed.manifest.res
+         Debug\hello_hw.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\hello_HW.exe.embed.manifest" /manifest Debug\hello_HW.exe.intermediate.manifest
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\hello_HW.exe.embed.manifest.res" Debug\hello_HW_manifest.rc 
+       LinkEmbedManifest:
+         D:\VS2010旗舰版\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C练习\hello_HW\Debug\hello_HW.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\hello_HW.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\C练习\hello_HW\Debug\hello_HW.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C练习\hello_HW\Debug\hello_HW.lib" /MACHINE:X86 Debug\hello_HW.exe.embed.manifest.res
+         Debug\hello_hw.obj
+         hello_HW.vcxproj -> D:\C练习\hello_HW\Debug\hello_HW.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\hello_HW.unsuccessfulbuild”。
+         正在对“Debug\hello_HW.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\C练习\hello_HW\hello_HW\hello_HW.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.11

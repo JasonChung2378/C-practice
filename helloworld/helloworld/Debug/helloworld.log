@@ -1,0 +1,25 @@
+﻿生成启动时间为 2015/6/21 11:14:47。
+     1>项目“D:\C练习\helloworld\helloworld\helloworld.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\helloworld.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\VS2010旗舰版\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C练习\helloworld\Debug\helloworld.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\helloworld.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\C练习\helloworld\Debug\helloworld.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C练习\helloworld\Debug\helloworld.lib" /MACHINE:X86 Debug\helloworld.exe.embed.manifest.res
+         Debug\helloworld.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\helloworld.exe.embed.manifest" /manifest Debug\helloworld.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         helloworld.vcxproj -> D:\C练习\helloworld\Debug\helloworld.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\helloworld.unsuccessfulbuild”。
+         正在对“Debug\helloworld.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\C练习\helloworld\helloworld\helloworld.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.47
