@@ -1,0 +1,26 @@
+﻿生成启动时间为 2015/7/17 17:30:15。
+     1>项目“D:\C练习\C-practice\limits-headerfile\limits-headerfile\limits-headerfile.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\limits-headerfile.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\VS2010旗舰版\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt "limits-headerfile.c"
+         limits-headerfile.c
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\VS2010旗舰版\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C练习\C-practice\limits-headerfile\Debug\limits-headerfile.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\limits-headerfile.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\C练习\C-practice\limits-headerfile\Debug\limits-headerfile.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C练习\C-practice\limits-headerfile\Debug\limits-headerfile.lib" /MACHINE:X86 "Debug\limits-headerfile.exe.embed.manifest.res"
+         "Debug\limits-headerfile.obj"
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\limits-headerfile.exe.embed.manifest" /manifest "Debug\limits-headerfile.exe.intermediate.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         limits-headerfile.vcxproj -> D:\C练习\C-practice\limits-headerfile\Debug\limits-headerfile.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\limits-headerfile.unsuccessfulbuild”。
+         正在对“Debug\limits-headerfile.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\C练习\C-practice\limits-headerfile\limits-headerfile\limits-headerfile.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.83
