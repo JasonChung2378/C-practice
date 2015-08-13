@@ -1,0 +1,25 @@
+﻿生成启动时间为 2015/8/4 16:38:22。
+     1>项目“D:\C练习\C-practice\apple_plates\apple_plates\apple_plates.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\apple_plates.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\VS2010旗舰版\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\C练习\C-practice\apple_plates\Debug\apple_plates.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\apple_plates.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\C练习\C-practice\apple_plates\Debug\apple_plates.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\C练习\C-practice\apple_plates\Debug\apple_plates.lib" /MACHINE:X86 Debug\apple_plates.exe.embed.manifest.res
+         Debug\apples.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\apple_plates.exe.embed.manifest" /manifest Debug\apple_plates.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         apple_plates.vcxproj -> D:\C练习\C-practice\apple_plates\Debug\apple_plates.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\apple_plates.unsuccessfulbuild”。
+         正在对“Debug\apple_plates.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\C练习\C-practice\apple_plates\apple_plates\apple_plates.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.58
